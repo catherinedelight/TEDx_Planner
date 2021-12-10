@@ -60,7 +60,7 @@
                   <?php
                     //connect to form controller
                     include_once (dirname(__FILE__)).'../controllers/form_controller.php';
-                    include_once (dirname(__FILE__)).'../functions/login_Checks.php';
+                    include_once (dirname(__FILE__)).'/../functions/login_Checks.php';
 
 
 
